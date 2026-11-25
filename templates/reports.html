@@ -1,0 +1,94 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h2>Reports</h2>
+
+<div class="row g-3 mt-3">
+
+    <div class="col-md-4">
+
+        <div class="card">
+
+            <div class="card-body">
+
+                <h5>
+                    Class Performance
+                </h5>
+
+                <a
+                    href="{{ url_for(
+                        'download_report',
+                        report_type='class'
+                    ) }}"
+                    class="btn btn-primary">
+
+                    Download CSV
+
+                </a>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <div class="col-md-4">
+
+        <div class="card">
+
+            <div class="card-body">
+
+                <h5>
+                    Subject Performance
+                </h5>
+
+                <a
+                    href="{{ url_for(
+                        'download_report',
+                        report_type='subject'
+                    ) }}"
+                    class="btn btn-primary">
+
+                    Download CSV
+
+                </a>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <div class="col-md-4">
+
+        <div class="card">
+
+            <div class="card-body">
+
+                <h5>
+                    Student Performance
+                </h5>
+
+                <a
+                    href="{{ url_for(
+                        'download_report',
+                        report_type='student'
+                    ) }}"
+                    class="btn btn-primary">
+
+                    Download CSV
+
+                </a>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+{% endblock %}

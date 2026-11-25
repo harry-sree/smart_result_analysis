@@ -1,0 +1,201 @@
+student_id,student_name,gender,class,subject,internal_marks,assignment_marks,attendance,previous_score,final_score,result
+S001,Student 001,Male,MCA-B,Python,21,7,92,86,80,Pass
+S001,Student 001,Male,MCA-B,Data Science,26,8,90,83,92,Pass
+S001,Student 001,Male,MCA-B,DBMS,23,9,89,91,92,Pass
+S001,Student 001,Male,MCA-B,Computer Networks,23,7,85,84,77,Pass
+S001,Student 001,Male,MCA-B,Machine Learning,18,10,83,77,71,Pass
+S002,Student 002,Male,MCA-A,Python,12,6,61,75,64,Pass
+S002,Student 002,Male,MCA-A,Data Science,13,5,68,68,64,Pass
+S002,Student 002,Male,MCA-A,DBMS,14,6,69,58,50,Pass
+S002,Student 002,Male,MCA-A,Computer Networks,17,4,62,55,58,Pass
+S002,Student 002,Male,MCA-A,Machine Learning,17,3,67,61,55,Pass
+S003,Student 003,Female,MCA-A,Python,18,8,64,73,56,Pass
+S003,Student 003,Female,MCA-A,Data Science,19,6,66,81,65,Pass
+S003,Student 003,Female,MCA-A,DBMS,21,6,68,76,78,Pass
+S003,Student 003,Female,MCA-A,Computer Networks,21,6,53,72,60,Pass
+S003,Student 003,Female,MCA-A,Machine Learning,24,8,72,64,73,Pass
+S004,Student 004,Male,MCA-A,Python,26,9,94,75,83,Pass
+S004,Student 004,Male,MCA-A,Data Science,18,10,99,73,77,Pass
+S004,Student 004,Male,MCA-A,DBMS,27,9,100,87,78,Pass
+S004,Student 004,Male,MCA-A,Computer Networks,22,7,90,62,74,Pass
+S004,Student 004,Male,MCA-A,Machine Learning,26,5,88,91,81,Pass
+S005,Student 005,Male,MCA-A,Python,23,6,83,67,74,Pass
+S005,Student 005,Male,MCA-A,Data Science,20,5,96,64,73,Pass
+S005,Student 005,Male,MCA-A,DBMS,23,7,91,81,81,Pass
+S005,Student 005,Male,MCA-A,Computer Networks,18,6,98,64,71,Pass
+S005,Student 005,Male,MCA-A,Machine Learning,22,5,79,66,70,Pass
+S006,Student 006,Male,MCA-A,Python,19,6,90,70,63,Pass
+S006,Student 006,Male,MCA-A,Data Science,22,7,82,76,78,Pass
+S006,Student 006,Male,MCA-A,DBMS,19,7,93,66,72,Pass
+S006,Student 006,Male,MCA-A,Computer Networks,21,9,75,77,74,Pass
+S006,Student 006,Male,MCA-A,Machine Learning,21,9,86,89,80,Pass
+S007,Student 007,Male,MCA-A,Python,14,5,89,56,48,Pass
+S007,Student 007,Male,MCA-A,Data Science,22,5,100,46,66,Pass
+S007,Student 007,Male,MCA-A,DBMS,25,4,82,50,67,Pass
+S007,Student 007,Male,MCA-A,Computer Networks,18,7,89,42,57,Pass
+S007,Student 007,Male,MCA-A,Machine Learning,20,6,79,54,70,Pass
+S008,Student 008,Male,MCA-A,Python,23,4,63,56,64,Pass
+S008,Student 008,Male,MCA-A,Data Science,18,5,62,49,49,Pass
+S008,Student 008,Male,MCA-A,DBMS,18,2,67,59,64,Pass
+S008,Student 008,Male,MCA-A,Computer Networks,17,6,66,50,52,Pass
+S008,Student 008,Male,MCA-A,Machine Learning,21,6,71,82,73,Pass
+S009,Student 009,Female,MCA-A,Python,22,7,76,81,76,Pass
+S009,Student 009,Female,MCA-A,Data Science,26,6,80,71,89,Pass
+S009,Student 009,Female,MCA-A,DBMS,24,6,74,70,74,Pass
+S009,Student 009,Female,MCA-A,Computer Networks,23,8,74,89,76,Pass
+S009,Student 009,Female,MCA-A,Machine Learning,25,8,79,86,79,Pass
+S010,Student 010,Male,MCA-B,Python,12,7,71,60,57,Pass
+S010,Student 010,Male,MCA-B,Data Science,18,4,67,74,59,Pass
+S010,Student 010,Male,MCA-B,DBMS,17,6,68,73,58,Pass
+S010,Student 010,Male,MCA-B,Computer Networks,12,5,65,58,56,Pass
+S010,Student 010,Male,MCA-B,Machine Learning,20,7,61,71,59,Pass
+S011,Student 011,Male,MCA-A,Python,15,7,82,44,55,Pass
+S011,Student 011,Male,MCA-A,Data Science,11,6,74,61,53,Pass
+S011,Student 011,Male,MCA-A,DBMS,16,6,80,53,52,Pass
+S011,Student 011,Male,MCA-A,Computer Networks,20,5,66,66,71,Pass
+S011,Student 011,Male,MCA-A,Machine Learning,17,6,67,60,64,Pass
+S012,Student 012,Male,MCA-A,Python,16,5,60,58,58,Pass
+S012,Student 012,Male,MCA-A,Data Science,18,4,56,58,58,Pass
+S012,Student 012,Male,MCA-A,DBMS,15,8,68,58,66,Pass
+S012,Student 012,Male,MCA-A,Computer Networks,18,5,61,54,58,Pass
+S012,Student 012,Male,MCA-A,Machine Learning,14,6,65,63,56,Pass
+S013,Student 013,Male,MCA-A,Python,16,6,59,54,55,Pass
+S013,Student 013,Male,MCA-A,Data Science,19,4,71,81,66,Pass
+S013,Student 013,Male,MCA-A,DBMS,20,6,70,66,64,Pass
+S013,Student 013,Male,MCA-A,Computer Networks,19,6,57,76,73,Pass
+S013,Student 013,Male,MCA-A,Machine Learning,17,8,68,81,63,Pass
+S014,Student 014,Male,MCA-B,Python,22,4,81,57,60,Pass
+S014,Student 014,Male,MCA-B,Data Science,16,6,65,65,61,Pass
+S014,Student 014,Male,MCA-B,DBMS,17,7,81,58,60,Pass
+S014,Student 014,Male,MCA-B,Computer Networks,20,4,76,57,62,Pass
+S014,Student 014,Male,MCA-B,Machine Learning,19,6,84,64,65,Pass
+S015,Student 015,Male,MCA-B,Python,24,7,74,87,76,Pass
+S015,Student 015,Male,MCA-B,Data Science,19,10,67,85,72,Pass
+S015,Student 015,Male,MCA-B,DBMS,27,6,69,87,83,Pass
+S015,Student 015,Male,MCA-B,Computer Networks,24,9,81,74,77,Pass
+S015,Student 015,Male,MCA-B,Machine Learning,23,10,66,90,86,Pass
+S016,Student 016,Male,MCA-B,Python,14,3,98,58,56,Pass
+S016,Student 016,Male,MCA-B,Data Science,17,4,95,63,64,Pass
+S016,Student 016,Male,MCA-B,DBMS,14,4,100,59,62,Pass
+S016,Student 016,Male,MCA-B,Computer Networks,15,5,96,63,61,Pass
+S016,Student 016,Male,MCA-B,Machine Learning,19,7,99,44,68,Pass
+S017,Student 017,Female,MCA-A,Python,17,8,87,88,84,Pass
+S017,Student 017,Female,MCA-A,Data Science,20,6,86,86,67,Pass
+S017,Student 017,Female,MCA-A,DBMS,21,8,83,81,73,Pass
+S017,Student 017,Female,MCA-A,Computer Networks,19,7,77,95,72,Pass
+S017,Student 017,Female,MCA-A,Machine Learning,17,7,81,74,74,Pass
+S018,Student 018,Male,MCA-B,Python,18,5,73,49,58,Pass
+S018,Student 018,Male,MCA-B,Data Science,18,4,73,53,60,Pass
+S018,Student 018,Male,MCA-B,DBMS,13,5,66,61,54,Pass
+S018,Student 018,Male,MCA-B,Computer Networks,23,6,69,56,65,Pass
+S018,Student 018,Male,MCA-B,Machine Learning,22,4,64,52,60,Pass
+S019,Student 019,Female,MCA-A,Python,22,6,73,65,75,Pass
+S019,Student 019,Female,MCA-A,Data Science,25,7,80,80,80,Pass
+S019,Student 019,Female,MCA-A,DBMS,18,4,73,81,75,Pass
+S019,Student 019,Female,MCA-A,Computer Networks,24,7,79,76,67,Pass
+S019,Student 019,Female,MCA-A,Machine Learning,20,7,91,72,70,Pass
+S020,Student 020,Female,MCA-B,Python,17,4,96,40,58,Pass
+S020,Student 020,Female,MCA-B,Data Science,12,5,100,43,55,Pass
+S020,Student 020,Female,MCA-B,DBMS,16,3,95,35,44,Pass
+S020,Student 020,Female,MCA-B,Computer Networks,15,3,100,39,51,Pass
+S020,Student 020,Female,MCA-B,Machine Learning,16,5,95,36,56,Pass
+S021,Student 021,Male,MCA-B,Python,17,6,60,66,61,Pass
+S021,Student 021,Male,MCA-B,Data Science,22,4,58,56,57,Pass
+S021,Student 021,Male,MCA-B,DBMS,20,7,59,71,67,Pass
+S021,Student 021,Male,MCA-B,Computer Networks,23,6,59,72,70,Pass
+S021,Student 021,Male,MCA-B,Machine Learning,17,7,63,59,55,Pass
+S022,Student 022,Male,MCA-B,Python,19,6,98,70,74,Pass
+S022,Student 022,Male,MCA-B,Data Science,22,7,94,61,73,Pass
+S022,Student 022,Male,MCA-B,DBMS,23,6,77,60,67,Pass
+S022,Student 022,Male,MCA-B,Computer Networks,21,7,94,71,81,Pass
+S022,Student 022,Male,MCA-B,Machine Learning,20,6,100,55,65,Pass
+S023,Student 023,Female,MCA-A,Python,25,8,94,93,81,Pass
+S023,Student 023,Female,MCA-A,Data Science,30,8,100,87,94,Pass
+S023,Student 023,Female,MCA-A,DBMS,21,8,94,80,84,Pass
+S023,Student 023,Female,MCA-A,Computer Networks,18,9,98,77,75,Pass
+S023,Student 023,Female,MCA-A,Machine Learning,22,7,96,77,82,Pass
+S024,Student 024,Female,MCA-B,Python,17,4,61,69,59,Pass
+S024,Student 024,Female,MCA-B,Data Science,20,8,70,68,69,Pass
+S024,Student 024,Female,MCA-B,DBMS,19,4,70,62,65,Pass
+S024,Student 024,Female,MCA-B,Computer Networks,17,4,59,67,67,Pass
+S024,Student 024,Female,MCA-B,Machine Learning,16,5,61,71,59,Pass
+S025,Student 025,Female,MCA-A,Python,16,4,84,59,60,Pass
+S025,Student 025,Female,MCA-A,Data Science,12,5,85,49,46,Pass
+S025,Student 025,Female,MCA-A,DBMS,19,4,79,54,65,Pass
+S025,Student 025,Female,MCA-A,Computer Networks,16,5,86,71,73,Pass
+S025,Student 025,Female,MCA-A,Machine Learning,18,4,100,44,57,Pass
+S026,Student 026,Male,MCA-A,Python,14,4,94,51,73,Pass
+S026,Student 026,Male,MCA-A,Data Science,11,6,100,54,54,Pass
+S026,Student 026,Male,MCA-A,DBMS,18,6,97,48,65,Pass
+S026,Student 026,Male,MCA-A,Computer Networks,15,4,95,53,62,Pass
+S026,Student 026,Male,MCA-A,Machine Learning,18,7,100,65,63,Pass
+S027,Student 027,Male,MCA-A,Python,22,8,87,89,77,Pass
+S027,Student 027,Male,MCA-A,Data Science,20,8,100,86,80,Pass
+S027,Student 027,Male,MCA-A,DBMS,23,7,100,77,80,Pass
+S027,Student 027,Male,MCA-A,Computer Networks,25,6,91,95,95,Pass
+S027,Student 027,Male,MCA-A,Machine Learning,26,7,100,89,80,Pass
+S028,Student 028,Female,MCA-B,Python,21,7,94,63,70,Pass
+S028,Student 028,Female,MCA-B,Data Science,24,6,100,60,72,Pass
+S028,Student 028,Female,MCA-B,DBMS,26,4,100,56,71,Pass
+S028,Student 028,Female,MCA-B,Computer Networks,20,8,76,55,62,Pass
+S028,Student 028,Female,MCA-B,Machine Learning,21,6,93,61,67,Pass
+S029,Student 029,Male,MCA-B,Python,21,6,68,75,66,Pass
+S029,Student 029,Male,MCA-B,Data Science,20,3,79,47,67,Pass
+S029,Student 029,Male,MCA-B,DBMS,20,4,85,81,82,Pass
+S029,Student 029,Male,MCA-B,Computer Networks,25,6,79,67,71,Pass
+S029,Student 029,Male,MCA-B,Machine Learning,19,6,84,77,74,Pass
+S030,Student 030,Male,MCA-B,Python,19,5,80,75,62,Pass
+S030,Student 030,Male,MCA-B,Data Science,17,7,88,52,63,Pass
+S030,Student 030,Male,MCA-B,DBMS,19,8,93,90,73,Pass
+S030,Student 030,Male,MCA-B,Computer Networks,19,5,96,72,75,Pass
+S030,Student 030,Male,MCA-B,Machine Learning,17,5,77,79,71,Pass
+S031,Student 031,Female,MCA-B,Python,18,7,80,73,71,Pass
+S031,Student 031,Female,MCA-B,Data Science,21,5,84,63,62,Pass
+S031,Student 031,Female,MCA-B,DBMS,18,6,83,60,59,Pass
+S031,Student 031,Female,MCA-B,Computer Networks,14,5,89,63,61,Pass
+S031,Student 031,Female,MCA-B,Machine Learning,28,5,83,86,81,Pass
+S032,Student 032,Male,MCA-B,Python,14,6,86,51,60,Pass
+S032,Student 032,Male,MCA-B,Data Science,15,7,100,59,65,Pass
+S032,Student 032,Male,MCA-B,DBMS,17,7,81,74,67,Pass
+S032,Student 032,Male,MCA-B,Computer Networks,16,3,97,49,59,Pass
+S032,Student 032,Male,MCA-B,Machine Learning,22,5,92,56,76,Pass
+S033,Student 033,Female,MCA-A,Python,29,7,68,93,79,Pass
+S033,Student 033,Female,MCA-A,Data Science,23,9,73,84,77,Pass
+S033,Student 033,Female,MCA-A,DBMS,28,9,78,83,93,Pass
+S033,Student 033,Female,MCA-A,Computer Networks,22,8,82,70,75,Pass
+S033,Student 033,Female,MCA-A,Machine Learning,25,7,82,95,94,Pass
+S034,Student 034,Female,MCA-B,Python,30,9,91,79,91,Pass
+S034,Student 034,Female,MCA-B,Data Science,20,9,87,87,78,Pass
+S034,Student 034,Female,MCA-B,DBMS,21,7,81,65,62,Pass
+S034,Student 034,Female,MCA-B,Computer Networks,22,9,82,70,67,Pass
+S034,Student 034,Female,MCA-B,Machine Learning,25,7,85,82,82,Pass
+S035,Student 035,Female,MCA-B,Python,15,6,66,56,63,Pass
+S035,Student 035,Female,MCA-B,Data Science,14,3,69,49,40,Pass
+S035,Student 035,Female,MCA-B,DBMS,12,3,60,39,41,Pass
+S035,Student 035,Female,MCA-B,Computer Networks,20,5,77,52,65,Pass
+S035,Student 035,Female,MCA-B,Machine Learning,18,5,78,45,60,Pass
+S036,Student 036,Male,MCA-A,Python,23,6,62,72,69,Pass
+S036,Student 036,Male,MCA-A,Data Science,22,6,75,81,83,Pass
+S036,Student 036,Male,MCA-A,DBMS,24,7,74,78,73,Pass
+S036,Student 036,Male,MCA-A,Computer Networks,26,9,81,74,82,Pass
+S036,Student 036,Male,MCA-A,Machine Learning,23,7,73,73,72,Pass
+S037,Student 037,Female,MCA-A,Python,19,6,79,71,67,Pass
+S037,Student 037,Female,MCA-A,Data Science,20,7,82,60,72,Pass
+S037,Student 037,Female,MCA-A,DBMS,18,6,72,58,67,Pass
+S037,Student 037,Female,MCA-A,Computer Networks,17,6,88,95,82,Pass
+S037,Student 037,Female,MCA-A,Machine Learning,21,5,87,74,62,Pass
+S038,Student 038,Male,MCA-B,Python,27,9,75,76,76,Pass
+S038,Student 038,Male,MCA-B,Data Science,20,10,67,81,73,Pass
+S038,Student 038,Male,MCA-B,DBMS,24,7,62,75,66,Pass
+S038,Student 038,Male,MCA-B,Computer Networks,24,7,69,84,75,Pass
+S038,Student 038,Male,MCA-B,Machine Learning,27,7,75,72,81,Pass
+S039,Student 039,Female,MCA-B,Python,21,6,97,55,67,Pass
+S039,Student 039,Female,MCA-B,Data Science,10,3,92,47,48,Pass
+S039,Student 039,Female,MCA-B,DBMS,18,6,89,42,63,Pass
+S039,Student 039,Female,MCA-B,Computer Networks,12,6,93,47,60,Pass
+S039,Student 039,Female,MCA-B,Machine Learning,17,7,95,57,68,Pass
+S040,Student 040,Male,MCA-B,Python,21,8,68,95,79,Pass
+S040,Student 040,Male,MCA-B,Data Science,21,6,92,84,80,Pass
+S040,Student 040,Male,MCA-B,DBMS,22,8,87,78,82,Pass
+S040,Student 040,Male,MCA-B,Computer Networks,30,8,73,77,87,Pass
+S040,Student 040,Male,MCA-B,Machine Learning,27,10,80,82,90,Pass

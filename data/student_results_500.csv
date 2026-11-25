@@ -1,0 +1,501 @@
+student_id,student_name,gender,class,subject,internal_marks,assignment_marks,attendance,previous_score,final_score,result
+STU001,Vikram Prasad,Male,MSc-CDS-A,Python Programming,22,7,61,74,71,Pass
+STU001,Vikram Prasad,Male,MSc-CDS-A,Data Science,23,10,96,66,79,Pass
+STU001,Vikram Prasad,Male,MSc-CDS-A,Database Management,24,9,74,83,88,Pass
+STU001,Vikram Prasad,Male,MSc-CDS-A,Machine Learning,29,9,89,81,94,Pass
+STU001,Vikram Prasad,Male,MSc-CDS-A,Statistics,29,8,85,74,66,Pass
+STU002,Charan Naidu,Male,MSc-CDS-A,Python Programming,24,6,75,72,63,Pass
+STU002,Charan Naidu,Male,MSc-CDS-A,Data Science,23,10,85,84,80,Pass
+STU002,Charan Naidu,Male,MSc-CDS-A,Database Management,20,7,80,68,83,Pass
+STU002,Charan Naidu,Male,MSc-CDS-A,Machine Learning,20,6,68,63,71,Pass
+STU002,Charan Naidu,Male,MSc-CDS-A,Statistics,20,6,91,66,74,Pass
+STU003,Divya Chowdary,Female,MSc-CDS-A,Python Programming,23,10,88,100,96,Pass
+STU003,Divya Chowdary,Female,MSc-CDS-A,Data Science,29,8,89,84,62,Pass
+STU003,Divya Chowdary,Female,MSc-CDS-A,Database Management,24,8,70,65,87,Pass
+STU003,Divya Chowdary,Female,MSc-CDS-A,Machine Learning,18,10,93,84,75,Pass
+STU003,Divya Chowdary,Female,MSc-CDS-A,Statistics,21,9,73,75,85,Pass
+STU004,Tarun Devi,Male,MSc-CDS-A,Python Programming,19,9,72,81,84,Pass
+STU004,Tarun Devi,Male,MSc-CDS-A,Data Science,14,8,87,72,63,Pass
+STU004,Tarun Devi,Male,MSc-CDS-A,Database Management,20,8,84,63,68,Pass
+STU004,Tarun Devi,Male,MSc-CDS-A,Machine Learning,23,7,59,85,67,Pass
+STU004,Tarun Devi,Male,MSc-CDS-A,Statistics,20,8,70,87,85,Pass
+STU005,Suresh Prasad,Male,MSc-CDS-A,Python Programming,27,10,99,92,97,Pass
+STU005,Suresh Prasad,Male,MSc-CDS-A,Data Science,21,10,70,78,80,Pass
+STU005,Suresh Prasad,Male,MSc-CDS-A,Database Management,29,9,82,91,79,Pass
+STU005,Suresh Prasad,Male,MSc-CDS-A,Machine Learning,24,10,79,100,85,Pass
+STU005,Suresh Prasad,Male,MSc-CDS-A,Statistics,30,8,93,93,100,Pass
+STU006,Harish Naidu,Male,MSc-CDS-A,Python Programming,22,7,100,83,79,Pass
+STU006,Harish Naidu,Male,MSc-CDS-A,Data Science,28,7,83,91,80,Pass
+STU006,Harish Naidu,Male,MSc-CDS-A,Database Management,30,8,77,82,75,Pass
+STU006,Harish Naidu,Male,MSc-CDS-A,Machine Learning,22,7,58,89,96,Pass
+STU006,Harish Naidu,Male,MSc-CDS-A,Statistics,25,8,91,83,84,Pass
+STU007,Aadhya Chowdary,Female,MSc-CDS-A,Python Programming,21,3,87,52,47,Pass
+STU007,Aadhya Chowdary,Female,MSc-CDS-A,Data Science,11,7,82,55,70,Pass
+STU007,Aadhya Chowdary,Female,MSc-CDS-A,Database Management,18,7,75,53,57,Pass
+STU007,Aadhya Chowdary,Female,MSc-CDS-A,Machine Learning,14,5,76,55,42,Pass
+STU007,Aadhya Chowdary,Female,MSc-CDS-A,Statistics,16,6,68,82,67,Pass
+STU008,Gopal Naidu,Male,MSc-CDS-A,Python Programming,16,7,73,31,36,Fail
+STU008,Gopal Naidu,Male,MSc-CDS-A,Data Science,7,4,68,51,37,Fail
+STU008,Gopal Naidu,Male,MSc-CDS-A,Database Management,19,6,72,49,43,Pass
+STU008,Gopal Naidu,Male,MSc-CDS-A,Machine Learning,11,4,55,47,42,Pass
+STU008,Gopal Naidu,Male,MSc-CDS-A,Statistics,16,5,69,45,44,Pass
+STU009,Rohan Chowdary,Male,MSc-CDS-A,Python Programming,8,2,77,54,42,Pass
+STU009,Rohan Chowdary,Male,MSc-CDS-A,Data Science,7,4,60,54,46,Pass
+STU009,Rohan Chowdary,Male,MSc-CDS-A,Database Management,12,4,66,49,48,Pass
+STU009,Rohan Chowdary,Male,MSc-CDS-A,Machine Learning,8,4,72,40,35,Fail
+STU009,Rohan Chowdary,Male,MSc-CDS-A,Statistics,5,5,76,47,33,Fail
+STU010,Varun Sharma,Male,MSc-CDS-A,Python Programming,23,6,86,100,90,Pass
+STU010,Varun Sharma,Male,MSc-CDS-A,Data Science,26,8,94,82,78,Pass
+STU010,Varun Sharma,Male,MSc-CDS-A,Database Management,30,9,79,79,90,Pass
+STU010,Varun Sharma,Male,MSc-CDS-A,Machine Learning,27,8,85,98,100,Pass
+STU010,Varun Sharma,Male,MSc-CDS-A,Statistics,27,10,80,79,93,Pass
+STU011,Keerthi Reddy,Female,MSc-CDS-A,Python Programming,19,6,69,57,58,Pass
+STU011,Keerthi Reddy,Female,MSc-CDS-A,Data Science,18,9,77,64,62,Pass
+STU011,Keerthi Reddy,Female,MSc-CDS-A,Database Management,13,7,82,56,61,Pass
+STU011,Keerthi Reddy,Female,MSc-CDS-A,Machine Learning,19,6,85,51,62,Pass
+STU011,Keerthi Reddy,Female,MSc-CDS-A,Statistics,27,2,66,59,58,Pass
+STU012,Arjun Singh,Male,MSc-CDS-A,Python Programming,19,3,78,54,66,Pass
+STU012,Arjun Singh,Male,MSc-CDS-A,Data Science,16,4,80,63,56,Pass
+STU012,Arjun Singh,Male,MSc-CDS-A,Database Management,19,4,70,51,52,Pass
+STU012,Arjun Singh,Male,MSc-CDS-A,Machine Learning,15,4,88,62,53,Pass
+STU012,Arjun Singh,Male,MSc-CDS-A,Statistics,17,3,73,69,73,Pass
+STU013,Anusha Devi,Female,MSc-CDS-A,Python Programming,30,8,96,86,84,Pass
+STU013,Anusha Devi,Female,MSc-CDS-A,Data Science,29,7,83,91,80,Pass
+STU013,Anusha Devi,Female,MSc-CDS-A,Database Management,21,6,57,93,74,Pass
+STU013,Anusha Devi,Female,MSc-CDS-A,Machine Learning,29,10,71,92,92,Pass
+STU013,Anusha Devi,Female,MSc-CDS-A,Statistics,25,7,93,91,84,Pass
+STU014,Kiran Verma,Male,MSc-CDS-A,Python Programming,27,10,83,78,89,Pass
+STU014,Kiran Verma,Male,MSc-CDS-A,Data Science,15,8,84,67,62,Pass
+STU014,Kiran Verma,Male,MSc-CDS-A,Database Management,19,10,92,72,71,Pass
+STU014,Kiran Verma,Male,MSc-CDS-A,Machine Learning,27,6,90,76,71,Pass
+STU014,Kiran Verma,Male,MSc-CDS-A,Statistics,25,8,66,66,83,Pass
+STU015,Nikhil Rao,Male,MSc-CDS-A,Python Programming,25,7,88,74,86,Pass
+STU015,Nikhil Rao,Male,MSc-CDS-A,Data Science,22,10,63,62,60,Pass
+STU015,Nikhil Rao,Male,MSc-CDS-A,Database Management,23,8,90,95,76,Pass
+STU015,Nikhil Rao,Male,MSc-CDS-A,Machine Learning,27,5,80,55,75,Pass
+STU015,Nikhil Rao,Male,MSc-CDS-A,Statistics,24,8,88,69,79,Pass
+STU016,Arjun Kumar,Male,MSc-CDS-A,Python Programming,17,7,80,82,55,Pass
+STU016,Arjun Kumar,Male,MSc-CDS-A,Data Science,28,8,77,73,73,Pass
+STU016,Arjun Kumar,Male,MSc-CDS-A,Database Management,20,5,71,76,71,Pass
+STU016,Arjun Kumar,Male,MSc-CDS-A,Machine Learning,19,8,69,66,63,Pass
+STU016,Arjun Kumar,Male,MSc-CDS-A,Statistics,19,6,72,67,69,Pass
+STU017,Charan Verma,Male,MSc-CDS-A,Python Programming,19,8,68,56,64,Pass
+STU017,Charan Verma,Male,MSc-CDS-A,Data Science,23,6,77,71,78,Pass
+STU017,Charan Verma,Male,MSc-CDS-A,Database Management,16,5,86,55,63,Pass
+STU017,Charan Verma,Male,MSc-CDS-A,Machine Learning,20,8,76,68,57,Pass
+STU017,Charan Verma,Male,MSc-CDS-A,Statistics,19,7,79,67,74,Pass
+STU018,Aditya Kumar,Male,MSc-CDS-A,Python Programming,27,6,76,79,68,Pass
+STU018,Aditya Kumar,Male,MSc-CDS-A,Data Science,17,9,69,100,75,Pass
+STU018,Aditya Kumar,Male,MSc-CDS-A,Database Management,21,6,80,75,77,Pass
+STU018,Aditya Kumar,Male,MSc-CDS-A,Machine Learning,23,8,79,68,74,Pass
+STU018,Aditya Kumar,Male,MSc-CDS-A,Statistics,18,10,70,86,74,Pass
+STU019,Sowmya Patel,Female,MSc-CDS-A,Python Programming,15,4,81,42,36,Fail
+STU019,Sowmya Patel,Female,MSc-CDS-A,Data Science,15,5,75,46,40,Pass
+STU019,Sowmya Patel,Female,MSc-CDS-A,Database Management,10,5,76,50,42,Pass
+STU019,Sowmya Patel,Female,MSc-CDS-A,Machine Learning,12,5,80,44,51,Pass
+STU019,Sowmya Patel,Female,MSc-CDS-A,Statistics,15,5,72,51,46,Pass
+STU020,Nandini Naidu,Female,MSc-CDS-A,Python Programming,21,8,82,80,76,Pass
+STU020,Nandini Naidu,Female,MSc-CDS-A,Data Science,28,9,88,80,65,Pass
+STU020,Nandini Naidu,Female,MSc-CDS-A,Database Management,21,7,90,58,73,Pass
+STU020,Nandini Naidu,Female,MSc-CDS-A,Machine Learning,25,10,75,82,76,Pass
+STU020,Nandini Naidu,Female,MSc-CDS-A,Statistics,21,6,89,59,57,Pass
+STU021,Charan Naidu,Male,MSc-CDS-A,Python Programming,26,4,91,80,65,Pass
+STU021,Charan Naidu,Male,MSc-CDS-A,Data Science,30,7,76,83,87,Pass
+STU021,Charan Naidu,Male,MSc-CDS-A,Database Management,21,7,65,72,88,Pass
+STU021,Charan Naidu,Male,MSc-CDS-A,Machine Learning,25,8,73,95,72,Pass
+STU021,Charan Naidu,Male,MSc-CDS-A,Statistics,21,7,90,57,71,Pass
+STU022,Surya Singh,Male,MSc-CDS-A,Python Programming,17,10,81,82,71,Pass
+STU022,Surya Singh,Male,MSc-CDS-A,Data Science,22,7,73,70,69,Pass
+STU022,Surya Singh,Male,MSc-CDS-A,Database Management,24,5,85,67,71,Pass
+STU022,Surya Singh,Male,MSc-CDS-A,Machine Learning,22,9,92,67,76,Pass
+STU022,Surya Singh,Male,MSc-CDS-A,Statistics,25,9,79,69,66,Pass
+STU023,Gopal Devi,Male,MSc-CDS-A,Python Programming,20,8,90,65,70,Pass
+STU023,Gopal Devi,Male,MSc-CDS-A,Data Science,23,9,87,76,83,Pass
+STU023,Gopal Devi,Male,MSc-CDS-A,Database Management,19,8,92,70,65,Pass
+STU023,Gopal Devi,Male,MSc-CDS-A,Machine Learning,21,7,76,75,66,Pass
+STU023,Gopal Devi,Male,MSc-CDS-A,Statistics,24,8,93,81,60,Pass
+STU024,Manoj Reddy,Male,MSc-CDS-A,Python Programming,17,8,86,78,68,Pass
+STU024,Manoj Reddy,Male,MSc-CDS-A,Data Science,21,10,77,73,67,Pass
+STU024,Manoj Reddy,Male,MSc-CDS-A,Database Management,22,7,60,71,65,Pass
+STU024,Manoj Reddy,Male,MSc-CDS-A,Machine Learning,21,8,71,66,68,Pass
+STU024,Manoj Reddy,Male,MSc-CDS-A,Statistics,20,7,84,58,77,Pass
+STU025,Nikhil Sharma,Male,MSc-CDS-A,Python Programming,25,7,89,84,79,Pass
+STU025,Nikhil Sharma,Male,MSc-CDS-A,Data Science,23,7,63,58,84,Pass
+STU025,Nikhil Sharma,Male,MSc-CDS-A,Database Management,20,9,84,92,80,Pass
+STU025,Nikhil Sharma,Male,MSc-CDS-A,Machine Learning,21,4,85,74,80,Pass
+STU025,Nikhil Sharma,Male,MSc-CDS-A,Statistics,27,9,90,66,85,Pass
+STU026,Charan Prasad,Male,MSc-CDS-A,Python Programming,19,7,83,68,75,Pass
+STU026,Charan Prasad,Male,MSc-CDS-A,Data Science,19,6,78,66,69,Pass
+STU026,Charan Prasad,Male,MSc-CDS-A,Database Management,20,7,84,62,71,Pass
+STU026,Charan Prasad,Male,MSc-CDS-A,Machine Learning,16,6,78,59,47,Pass
+STU026,Charan Prasad,Male,MSc-CDS-A,Statistics,18,9,100,77,80,Pass
+STU027,Sneha Rao,Female,MSc-CDS-A,Python Programming,24,10,85,72,84,Pass
+STU027,Sneha Rao,Female,MSc-CDS-A,Data Science,26,6,100,71,77,Pass
+STU027,Sneha Rao,Female,MSc-CDS-A,Database Management,27,7,85,86,83,Pass
+STU027,Sneha Rao,Female,MSc-CDS-A,Machine Learning,24,7,77,96,82,Pass
+STU027,Sneha Rao,Female,MSc-CDS-A,Statistics,25,9,70,85,84,Pass
+STU028,Sravya Patel,Female,MSc-CDS-A,Python Programming,18,8,82,49,64,Pass
+STU028,Sravya Patel,Female,MSc-CDS-A,Data Science,22,7,90,57,70,Pass
+STU028,Sravya Patel,Female,MSc-CDS-A,Database Management,17,5,81,46,51,Pass
+STU028,Sravya Patel,Female,MSc-CDS-A,Machine Learning,21,7,73,65,72,Pass
+STU028,Sravya Patel,Female,MSc-CDS-A,Statistics,19,8,81,50,45,Pass
+STU029,Varun Rao,Male,MSc-CDS-A,Python Programming,19,4,83,46,48,Pass
+STU029,Varun Rao,Male,MSc-CDS-A,Data Science,11,6,59,61,51,Pass
+STU029,Varun Rao,Male,MSc-CDS-A,Database Management,11,2,77,55,45,Pass
+STU029,Varun Rao,Male,MSc-CDS-A,Machine Learning,14,5,84,62,51,Pass
+STU029,Varun Rao,Male,MSc-CDS-A,Statistics,18,4,88,44,44,Pass
+STU030,Sai Das,Male,MSc-CDS-A,Python Programming,24,7,86,42,67,Pass
+STU030,Sai Das,Male,MSc-CDS-A,Data Science,23,8,81,72,69,Pass
+STU030,Sai Das,Male,MSc-CDS-A,Database Management,29,8,75,85,81,Pass
+STU030,Sai Das,Male,MSc-CDS-A,Machine Learning,17,7,59,58,55,Pass
+STU030,Sai Das,Male,MSc-CDS-A,Statistics,20,7,74,64,72,Pass
+STU031,Aadhya Prasad,Female,MSc-CDS-A,Python Programming,28,9,100,97,74,Pass
+STU031,Aadhya Prasad,Female,MSc-CDS-A,Data Science,28,10,83,81,89,Pass
+STU031,Aadhya Prasad,Female,MSc-CDS-A,Database Management,27,9,85,85,88,Pass
+STU031,Aadhya Prasad,Female,MSc-CDS-A,Machine Learning,25,8,88,90,85,Pass
+STU031,Aadhya Prasad,Female,MSc-CDS-A,Statistics,30,6,91,100,88,Pass
+STU032,Harish Reddy,Male,MSc-CDS-A,Python Programming,24,7,75,83,80,Pass
+STU032,Harish Reddy,Male,MSc-CDS-A,Data Science,19,7,62,78,76,Pass
+STU032,Harish Reddy,Male,MSc-CDS-A,Database Management,27,5,71,69,74,Pass
+STU032,Harish Reddy,Male,MSc-CDS-A,Machine Learning,30,8,77,74,82,Pass
+STU032,Harish Reddy,Male,MSc-CDS-A,Statistics,17,7,89,63,73,Pass
+STU033,Aarav Singh,Male,MSc-CDS-A,Python Programming,12,5,84,55,49,Pass
+STU033,Aarav Singh,Male,MSc-CDS-A,Data Science,23,5,76,72,72,Pass
+STU033,Aarav Singh,Male,MSc-CDS-A,Database Management,20,5,51,51,60,Pass
+STU033,Aarav Singh,Male,MSc-CDS-A,Machine Learning,21,5,79,56,56,Pass
+STU033,Aarav Singh,Male,MSc-CDS-A,Statistics,12,4,55,67,69,Pass
+STU034,Gopal Das,Male,MSc-CDS-A,Python Programming,17,5,77,55,41,Pass
+STU034,Gopal Das,Male,MSc-CDS-A,Data Science,15,6,79,39,58,Pass
+STU034,Gopal Das,Male,MSc-CDS-A,Database Management,15,7,69,49,50,Pass
+STU034,Gopal Das,Male,MSc-CDS-A,Machine Learning,12,5,56,48,62,Pass
+STU034,Gopal Das,Male,MSc-CDS-A,Statistics,15,4,79,59,57,Pass
+STU035,Mounika Reddy,Female,MSc-CDS-B,Python Programming,20,8,74,84,60,Pass
+STU035,Mounika Reddy,Female,MSc-CDS-B,Data Science,20,6,97,76,68,Pass
+STU035,Mounika Reddy,Female,MSc-CDS-B,Database Management,15,8,68,61,56,Pass
+STU035,Mounika Reddy,Female,MSc-CDS-B,Machine Learning,20,6,88,76,69,Pass
+STU035,Mounika Reddy,Female,MSc-CDS-B,Statistics,19,9,81,74,71,Pass
+STU036,Vaishnavi Prasad,Female,MSc-CDS-B,Python Programming,17,6,71,83,64,Pass
+STU036,Vaishnavi Prasad,Female,MSc-CDS-B,Data Science,24,7,73,74,68,Pass
+STU036,Vaishnavi Prasad,Female,MSc-CDS-B,Database Management,19,7,85,78,65,Pass
+STU036,Vaishnavi Prasad,Female,MSc-CDS-B,Machine Learning,21,6,81,73,75,Pass
+STU036,Vaishnavi Prasad,Female,MSc-CDS-B,Statistics,19,5,83,81,76,Pass
+STU037,Pooja Verma,Female,MSc-CDS-B,Python Programming,23,7,71,82,68,Pass
+STU037,Pooja Verma,Female,MSc-CDS-B,Data Science,19,9,84,59,67,Pass
+STU037,Pooja Verma,Female,MSc-CDS-B,Database Management,22,4,86,64,67,Pass
+STU037,Pooja Verma,Female,MSc-CDS-B,Machine Learning,16,7,81,69,75,Pass
+STU037,Pooja Verma,Female,MSc-CDS-B,Statistics,20,7,81,75,67,Pass
+STU038,Rohan Rao,Male,MSc-CDS-B,Python Programming,28,8,68,80,77,Pass
+STU038,Rohan Rao,Male,MSc-CDS-B,Data Science,19,7,84,87,72,Pass
+STU038,Rohan Rao,Male,MSc-CDS-B,Database Management,26,6,73,72,80,Pass
+STU038,Rohan Rao,Male,MSc-CDS-B,Machine Learning,22,8,90,67,78,Pass
+STU038,Rohan Rao,Male,MSc-CDS-B,Statistics,21,9,79,71,72,Pass
+STU039,Keerthi Prasad,Female,MSc-CDS-B,Python Programming,24,7,78,71,68,Pass
+STU039,Keerthi Prasad,Female,MSc-CDS-B,Data Science,23,7,72,89,77,Pass
+STU039,Keerthi Prasad,Female,MSc-CDS-B,Database Management,28,9,86,77,95,Pass
+STU039,Keerthi Prasad,Female,MSc-CDS-B,Machine Learning,25,8,89,76,59,Pass
+STU039,Keerthi Prasad,Female,MSc-CDS-B,Statistics,23,9,90,72,71,Pass
+STU040,Harish Sharma,Male,MSc-CDS-B,Python Programming,30,7,64,88,80,Pass
+STU040,Harish Sharma,Male,MSc-CDS-B,Data Science,23,6,80,66,79,Pass
+STU040,Harish Sharma,Male,MSc-CDS-B,Database Management,25,9,71,82,69,Pass
+STU040,Harish Sharma,Male,MSc-CDS-B,Machine Learning,21,9,83,77,92,Pass
+STU040,Harish Sharma,Male,MSc-CDS-B,Statistics,22,10,77,74,71,Pass
+STU041,Varun Das,Male,MSc-CDS-B,Python Programming,25,10,77,51,65,Pass
+STU041,Varun Das,Male,MSc-CDS-B,Data Science,23,6,77,63,66,Pass
+STU041,Varun Das,Male,MSc-CDS-B,Database Management,20,7,91,68,66,Pass
+STU041,Varun Das,Male,MSc-CDS-B,Machine Learning,19,6,65,51,65,Pass
+STU041,Varun Das,Male,MSc-CDS-B,Statistics,21,7,76,57,55,Pass
+STU042,Manoj Chowdary,Male,MSc-CDS-B,Python Programming,23,8,89,82,72,Pass
+STU042,Manoj Chowdary,Male,MSc-CDS-B,Data Science,24,10,72,65,78,Pass
+STU042,Manoj Chowdary,Male,MSc-CDS-B,Database Management,25,8,95,73,74,Pass
+STU042,Manoj Chowdary,Male,MSc-CDS-B,Machine Learning,21,9,70,66,74,Pass
+STU042,Manoj Chowdary,Male,MSc-CDS-B,Statistics,27,8,98,68,75,Pass
+STU043,Arjun Patel,Male,MSc-CDS-B,Python Programming,13,5,70,66,51,Pass
+STU043,Arjun Patel,Male,MSc-CDS-B,Data Science,19,7,71,50,46,Pass
+STU043,Arjun Patel,Male,MSc-CDS-B,Database Management,18,6,71,63,58,Pass
+STU043,Arjun Patel,Male,MSc-CDS-B,Machine Learning,26,6,87,39,52,Pass
+STU043,Arjun Patel,Male,MSc-CDS-B,Statistics,12,4,68,74,50,Pass
+STU044,Gopal Patel,Male,MSc-CDS-B,Python Programming,6,5,62,65,46,Pass
+STU044,Gopal Patel,Male,MSc-CDS-B,Data Science,10,7,81,54,49,Pass
+STU044,Gopal Patel,Male,MSc-CDS-B,Database Management,12,5,80,37,38,Fail
+STU044,Gopal Patel,Male,MSc-CDS-B,Machine Learning,15,8,83,36,43,Pass
+STU044,Gopal Patel,Male,MSc-CDS-B,Statistics,11,6,81,46,41,Pass
+STU045,Vikram Devi,Male,MSc-CDS-B,Python Programming,27,7,84,90,92,Pass
+STU045,Vikram Devi,Male,MSc-CDS-B,Data Science,29,9,75,97,83,Pass
+STU045,Vikram Devi,Male,MSc-CDS-B,Database Management,30,7,88,75,83,Pass
+STU045,Vikram Devi,Male,MSc-CDS-B,Machine Learning,24,7,87,98,88,Pass
+STU045,Vikram Devi,Male,MSc-CDS-B,Statistics,19,9,92,100,76,Pass
+STU046,Kavya Reddy,Female,MSc-CDS-B,Python Programming,20,8,75,82,74,Pass
+STU046,Kavya Reddy,Female,MSc-CDS-B,Data Science,24,7,82,84,86,Pass
+STU046,Kavya Reddy,Female,MSc-CDS-B,Database Management,30,10,91,80,79,Pass
+STU046,Kavya Reddy,Female,MSc-CDS-B,Machine Learning,20,7,58,77,83,Pass
+STU046,Kavya Reddy,Female,MSc-CDS-B,Statistics,23,10,99,80,85,Pass
+STU047,Gopal Sharma,Male,MSc-CDS-B,Python Programming,12,5,78,72,63,Pass
+STU047,Gopal Sharma,Male,MSc-CDS-B,Data Science,17,8,97,66,61,Pass
+STU047,Gopal Sharma,Male,MSc-CDS-B,Database Management,19,8,98,66,77,Pass
+STU047,Gopal Sharma,Male,MSc-CDS-B,Machine Learning,14,6,84,63,61,Pass
+STU047,Gopal Sharma,Male,MSc-CDS-B,Statistics,23,5,91,61,77,Pass
+STU048,Kavya Murthy,Female,MSc-CDS-B,Python Programming,17,3,67,65,61,Pass
+STU048,Kavya Murthy,Female,MSc-CDS-B,Data Science,8,7,69,60,45,Pass
+STU048,Kavya Murthy,Female,MSc-CDS-B,Database Management,13,5,77,72,63,Pass
+STU048,Kavya Murthy,Female,MSc-CDS-B,Machine Learning,19,4,84,80,56,Pass
+STU048,Kavya Murthy,Female,MSc-CDS-B,Statistics,15,4,71,57,60,Pass
+STU049,Suresh Chowdary,Male,MSc-CDS-B,Python Programming,29,9,93,76,84,Pass
+STU049,Suresh Chowdary,Male,MSc-CDS-B,Data Science,16,7,77,89,74,Pass
+STU049,Suresh Chowdary,Male,MSc-CDS-B,Database Management,25,6,80,85,74,Pass
+STU049,Suresh Chowdary,Male,MSc-CDS-B,Machine Learning,25,6,89,78,73,Pass
+STU049,Suresh Chowdary,Male,MSc-CDS-B,Statistics,23,7,81,88,70,Pass
+STU050,Bhavya Naidu,Female,MSc-CDS-B,Python Programming,20,6,74,57,59,Pass
+STU050,Bhavya Naidu,Female,MSc-CDS-B,Data Science,17,7,85,42,53,Pass
+STU050,Bhavya Naidu,Female,MSc-CDS-B,Database Management,20,8,81,71,61,Pass
+STU050,Bhavya Naidu,Female,MSc-CDS-B,Machine Learning,17,7,95,66,61,Pass
+STU050,Bhavya Naidu,Female,MSc-CDS-B,Statistics,17,7,77,72,67,Pass
+STU051,Kavya Yadav,Female,MSc-CDS-B,Python Programming,19,9,77,44,59,Pass
+STU051,Kavya Yadav,Female,MSc-CDS-B,Data Science,16,6,80,56,69,Pass
+STU051,Kavya Yadav,Female,MSc-CDS-B,Database Management,15,7,92,49,54,Pass
+STU051,Kavya Yadav,Female,MSc-CDS-B,Machine Learning,21,7,80,63,47,Pass
+STU051,Kavya Yadav,Female,MSc-CDS-B,Statistics,15,6,69,47,45,Pass
+STU052,Tejaswini Rao,Female,MSc-CDS-B,Python Programming,22,6,68,67,52,Pass
+STU052,Tejaswini Rao,Female,MSc-CDS-B,Data Science,26,8,81,87,82,Pass
+STU052,Tejaswini Rao,Female,MSc-CDS-B,Database Management,27,5,94,82,83,Pass
+STU052,Tejaswini Rao,Female,MSc-CDS-B,Machine Learning,22,6,68,58,75,Pass
+STU052,Tejaswini Rao,Female,MSc-CDS-B,Statistics,18,6,89,72,66,Pass
+STU053,Gopal Murthy,Male,MSc-CDS-B,Python Programming,23,6,85,76,80,Pass
+STU053,Gopal Murthy,Male,MSc-CDS-B,Data Science,22,7,84,66,75,Pass
+STU053,Gopal Murthy,Male,MSc-CDS-B,Database Management,23,7,87,81,75,Pass
+STU053,Gopal Murthy,Male,MSc-CDS-B,Machine Learning,20,7,70,78,73,Pass
+STU053,Gopal Murthy,Male,MSc-CDS-B,Statistics,23,6,67,80,88,Pass
+STU054,Deepika Chowdary,Female,MSc-CDS-B,Python Programming,25,7,79,49,58,Pass
+STU054,Deepika Chowdary,Female,MSc-CDS-B,Data Science,13,4,68,48,59,Pass
+STU054,Deepika Chowdary,Female,MSc-CDS-B,Database Management,23,6,76,50,55,Pass
+STU054,Deepika Chowdary,Female,MSc-CDS-B,Machine Learning,21,4,70,48,53,Pass
+STU054,Deepika Chowdary,Female,MSc-CDS-B,Statistics,19,5,97,39,42,Pass
+STU055,Nikhil Yadav,Male,MSc-CDS-B,Python Programming,7,6,54,34,54,Pass
+STU055,Nikhil Yadav,Male,MSc-CDS-B,Data Science,15,3,65,44,44,Pass
+STU055,Nikhil Yadav,Male,MSc-CDS-B,Database Management,13,8,73,40,56,Pass
+STU055,Nikhil Yadav,Male,MSc-CDS-B,Machine Learning,14,4,55,63,50,Pass
+STU055,Nikhil Yadav,Male,MSc-CDS-B,Statistics,12,5,73,34,34,Fail
+STU056,Abhinav Naidu,Male,MSc-CDS-B,Python Programming,27,9,82,70,75,Pass
+STU056,Abhinav Naidu,Male,MSc-CDS-B,Data Science,27,9,73,83,84,Pass
+STU056,Abhinav Naidu,Male,MSc-CDS-B,Database Management,22,9,64,100,73,Pass
+STU056,Abhinav Naidu,Male,MSc-CDS-B,Machine Learning,26,6,85,86,80,Pass
+STU056,Abhinav Naidu,Male,MSc-CDS-B,Statistics,27,7,100,86,85,Pass
+STU057,Charan Patel,Male,MSc-CDS-B,Python Programming,8,5,80,61,52,Pass
+STU057,Charan Patel,Male,MSc-CDS-B,Data Science,16,5,67,43,35,Fail
+STU057,Charan Patel,Male,MSc-CDS-B,Database Management,15,5,68,53,36,Fail
+STU057,Charan Patel,Male,MSc-CDS-B,Machine Learning,13,4,79,34,50,Pass
+STU057,Charan Patel,Male,MSc-CDS-B,Statistics,15,4,70,38,44,Pass
+STU058,Nandini Murthy,Female,MSc-CDS-B,Python Programming,29,8,91,89,75,Pass
+STU058,Nandini Murthy,Female,MSc-CDS-B,Data Science,17,7,79,70,68,Pass
+STU058,Nandini Murthy,Female,MSc-CDS-B,Database Management,18,9,72,71,67,Pass
+STU058,Nandini Murthy,Female,MSc-CDS-B,Machine Learning,21,8,76,85,70,Pass
+STU058,Nandini Murthy,Female,MSc-CDS-B,Statistics,18,9,82,72,60,Pass
+STU059,Vaishnavi Prasad,Female,MSc-CDS-B,Python Programming,26,7,83,69,69,Pass
+STU059,Vaishnavi Prasad,Female,MSc-CDS-B,Data Science,29,6,85,82,78,Pass
+STU059,Vaishnavi Prasad,Female,MSc-CDS-B,Database Management,22,9,83,73,69,Pass
+STU059,Vaishnavi Prasad,Female,MSc-CDS-B,Machine Learning,23,7,76,82,74,Pass
+STU059,Vaishnavi Prasad,Female,MSc-CDS-B,Statistics,27,8,94,83,95,Pass
+STU060,Anusha Yadav,Female,MSc-CDS-B,Python Programming,13,5,82,64,60,Pass
+STU060,Anusha Yadav,Female,MSc-CDS-B,Data Science,18,4,72,48,60,Pass
+STU060,Anusha Yadav,Female,MSc-CDS-B,Database Management,15,7,85,54,60,Pass
+STU060,Anusha Yadav,Female,MSc-CDS-B,Machine Learning,22,7,85,75,78,Pass
+STU060,Anusha Yadav,Female,MSc-CDS-B,Statistics,16,8,63,39,67,Pass
+STU061,Vikram Patel,Male,MSc-CDS-B,Python Programming,23,8,82,67,92,Pass
+STU061,Vikram Patel,Male,MSc-CDS-B,Data Science,26,7,95,80,93,Pass
+STU061,Vikram Patel,Male,MSc-CDS-B,Database Management,23,10,78,98,89,Pass
+STU061,Vikram Patel,Male,MSc-CDS-B,Machine Learning,22,7,88,65,74,Pass
+STU061,Vikram Patel,Male,MSc-CDS-B,Statistics,25,4,88,78,80,Pass
+STU062,Tarun Das,Male,MSc-CDS-B,Python Programming,29,5,77,85,96,Pass
+STU062,Tarun Das,Male,MSc-CDS-B,Data Science,30,8,83,82,90,Pass
+STU062,Tarun Das,Male,MSc-CDS-B,Database Management,26,9,62,66,76,Pass
+STU062,Tarun Das,Male,MSc-CDS-B,Machine Learning,29,8,64,86,82,Pass
+STU062,Tarun Das,Male,MSc-CDS-B,Statistics,27,8,69,82,70,Pass
+STU063,Surya Yadav,Male,MSc-CDS-B,Python Programming,26,7,90,78,87,Pass
+STU063,Surya Yadav,Male,MSc-CDS-B,Data Science,22,7,95,75,80,Pass
+STU063,Surya Yadav,Male,MSc-CDS-B,Database Management,20,6,95,62,65,Pass
+STU063,Surya Yadav,Male,MSc-CDS-B,Machine Learning,22,10,96,68,75,Pass
+STU063,Surya Yadav,Male,MSc-CDS-B,Statistics,19,6,100,69,79,Pass
+STU064,Nandini Rao,Female,MSc-CDS-B,Python Programming,23,9,64,65,64,Pass
+STU064,Nandini Rao,Female,MSc-CDS-B,Data Science,20,7,80,74,68,Pass
+STU064,Nandini Rao,Female,MSc-CDS-B,Database Management,18,6,64,71,67,Pass
+STU064,Nandini Rao,Female,MSc-CDS-B,Machine Learning,27,10,85,66,74,Pass
+STU064,Nandini Rao,Female,MSc-CDS-B,Statistics,26,5,80,77,83,Pass
+STU065,Anusha Chowdary,Female,MSc-CDS-B,Python Programming,19,6,70,40,46,Pass
+STU065,Anusha Chowdary,Female,MSc-CDS-B,Data Science,16,6,92,49,59,Pass
+STU065,Anusha Chowdary,Female,MSc-CDS-B,Database Management,14,8,83,55,60,Pass
+STU065,Anusha Chowdary,Female,MSc-CDS-B,Machine Learning,13,6,66,51,49,Pass
+STU065,Anusha Chowdary,Female,MSc-CDS-B,Statistics,15,5,77,65,47,Pass
+STU066,Kavya Chowdary,Female,MSc-CDS-B,Python Programming,23,4,80,68,66,Pass
+STU066,Kavya Chowdary,Female,MSc-CDS-B,Data Science,18,6,89,76,65,Pass
+STU066,Kavya Chowdary,Female,MSc-CDS-B,Database Management,22,6,75,63,64,Pass
+STU066,Kavya Chowdary,Female,MSc-CDS-B,Machine Learning,17,6,62,63,63,Pass
+STU066,Kavya Chowdary,Female,MSc-CDS-B,Statistics,16,8,67,74,83,Pass
+STU067,Rahul Singh,Male,MSc-CDS-B,Python Programming,6,6,97,65,60,Pass
+STU067,Rahul Singh,Male,MSc-CDS-B,Data Science,20,8,88,79,77,Pass
+STU067,Rahul Singh,Male,MSc-CDS-B,Database Management,16,9,81,61,60,Pass
+STU067,Rahul Singh,Male,MSc-CDS-B,Machine Learning,19,8,67,76,70,Pass
+STU067,Rahul Singh,Male,MSc-CDS-B,Statistics,17,5,80,81,69,Pass
+STU068,Aadhya Rao,Female,MSc-CDS-B,Python Programming,7,2,68,11,24,Fail
+STU068,Aadhya Rao,Female,MSc-CDS-B,Data Science,5,3,71,40,43,Pass
+STU068,Aadhya Rao,Female,MSc-CDS-B,Database Management,16,1,64,27,35,Fail
+STU068,Aadhya Rao,Female,MSc-CDS-B,Machine Learning,10,3,78,42,34,Fail
+STU068,Aadhya Rao,Female,MSc-CDS-B,Statistics,5,3,65,39,35,Fail
+STU069,Anusha Devi,Female,MSc-CDS-C,Python Programming,13,4,76,74,49,Pass
+STU069,Anusha Devi,Female,MSc-CDS-C,Data Science,11,4,90,58,55,Pass
+STU069,Anusha Devi,Female,MSc-CDS-C,Database Management,19,5,77,57,49,Pass
+STU069,Anusha Devi,Female,MSc-CDS-C,Machine Learning,15,4,77,58,70,Pass
+STU069,Anusha Devi,Female,MSc-CDS-C,Statistics,18,5,63,49,49,Pass
+STU070,Divya Naidu,Female,MSc-CDS-C,Python Programming,29,5,83,79,79,Pass
+STU070,Divya Naidu,Female,MSc-CDS-C,Data Science,20,7,89,83,69,Pass
+STU070,Divya Naidu,Female,MSc-CDS-C,Database Management,25,6,97,71,77,Pass
+STU070,Divya Naidu,Female,MSc-CDS-C,Machine Learning,22,9,90,70,83,Pass
+STU070,Divya Naidu,Female,MSc-CDS-C,Statistics,16,7,84,69,72,Pass
+STU071,Sai Das,Male,MSc-CDS-C,Python Programming,26,9,91,80,72,Pass
+STU071,Sai Das,Male,MSc-CDS-C,Data Science,21,9,88,82,80,Pass
+STU071,Sai Das,Male,MSc-CDS-C,Database Management,22,8,86,79,83,Pass
+STU071,Sai Das,Male,MSc-CDS-C,Machine Learning,29,9,84,78,73,Pass
+STU071,Sai Das,Male,MSc-CDS-C,Statistics,28,10,72,83,74,Pass
+STU072,Keerthi Singh,Female,MSc-CDS-C,Python Programming,19,8,89,60,72,Pass
+STU072,Keerthi Singh,Female,MSc-CDS-C,Data Science,18,6,88,57,60,Pass
+STU072,Keerthi Singh,Female,MSc-CDS-C,Database Management,15,7,69,58,56,Pass
+STU072,Keerthi Singh,Female,MSc-CDS-C,Machine Learning,21,6,76,66,61,Pass
+STU072,Keerthi Singh,Female,MSc-CDS-C,Statistics,8,7,81,67,53,Pass
+STU073,Varun Das,Male,MSc-CDS-C,Python Programming,22,8,88,69,81,Pass
+STU073,Varun Das,Male,MSc-CDS-C,Data Science,24,7,87,83,77,Pass
+STU073,Varun Das,Male,MSc-CDS-C,Database Management,27,7,89,74,76,Pass
+STU073,Varun Das,Male,MSc-CDS-C,Machine Learning,24,9,79,84,90,Pass
+STU073,Varun Das,Male,MSc-CDS-C,Statistics,22,9,70,64,78,Pass
+STU074,Nandini Yadav,Female,MSc-CDS-C,Python Programming,21,9,78,76,73,Pass
+STU074,Nandini Yadav,Female,MSc-CDS-C,Data Science,18,8,86,70,62,Pass
+STU074,Nandini Yadav,Female,MSc-CDS-C,Database Management,24,7,88,79,80,Pass
+STU074,Nandini Yadav,Female,MSc-CDS-C,Machine Learning,26,7,89,85,80,Pass
+STU074,Nandini Yadav,Female,MSc-CDS-C,Statistics,16,8,66,83,57,Pass
+STU075,Kiran Reddy,Male,MSc-CDS-C,Python Programming,13,9,68,61,58,Pass
+STU075,Kiran Reddy,Male,MSc-CDS-C,Data Science,24,7,56,58,68,Pass
+STU075,Kiran Reddy,Male,MSc-CDS-C,Database Management,19,5,81,68,75,Pass
+STU075,Kiran Reddy,Male,MSc-CDS-C,Machine Learning,20,6,75,75,68,Pass
+STU075,Kiran Reddy,Male,MSc-CDS-C,Statistics,25,6,90,63,64,Pass
+STU076,Kiran Rao,Male,MSc-CDS-C,Python Programming,21,7,86,66,76,Pass
+STU076,Kiran Rao,Male,MSc-CDS-C,Data Science,18,7,78,62,62,Pass
+STU076,Kiran Rao,Male,MSc-CDS-C,Database Management,15,9,93,78,76,Pass
+STU076,Kiran Rao,Male,MSc-CDS-C,Machine Learning,21,5,79,61,77,Pass
+STU076,Kiran Rao,Male,MSc-CDS-C,Statistics,18,10,71,67,67,Pass
+STU077,Ravi Sharma,Male,MSc-CDS-C,Python Programming,25,9,81,68,75,Pass
+STU077,Ravi Sharma,Male,MSc-CDS-C,Data Science,30,9,59,71,80,Pass
+STU077,Ravi Sharma,Male,MSc-CDS-C,Database Management,21,8,85,79,86,Pass
+STU077,Ravi Sharma,Male,MSc-CDS-C,Machine Learning,21,10,89,76,84,Pass
+STU077,Ravi Sharma,Male,MSc-CDS-C,Statistics,28,8,80,98,89,Pass
+STU078,Suresh Gupta,Male,MSc-CDS-C,Python Programming,21,8,82,86,74,Pass
+STU078,Suresh Gupta,Male,MSc-CDS-C,Data Science,27,8,100,68,72,Pass
+STU078,Suresh Gupta,Male,MSc-CDS-C,Database Management,21,9,77,87,77,Pass
+STU078,Suresh Gupta,Male,MSc-CDS-C,Machine Learning,25,6,79,91,82,Pass
+STU078,Suresh Gupta,Male,MSc-CDS-C,Statistics,23,10,71,77,83,Pass
+STU079,Rohan Reddy,Male,MSc-CDS-C,Python Programming,26,7,87,73,77,Pass
+STU079,Rohan Reddy,Male,MSc-CDS-C,Data Science,19,6,89,85,73,Pass
+STU079,Rohan Reddy,Male,MSc-CDS-C,Database Management,22,9,81,65,79,Pass
+STU079,Rohan Reddy,Male,MSc-CDS-C,Machine Learning,24,7,73,68,72,Pass
+STU079,Rohan Reddy,Male,MSc-CDS-C,Statistics,25,10,74,83,88,Pass
+STU080,Nikhil Sharma,Male,MSc-CDS-C,Python Programming,25,10,85,87,96,Pass
+STU080,Nikhil Sharma,Male,MSc-CDS-C,Data Science,26,10,69,86,85,Pass
+STU080,Nikhil Sharma,Male,MSc-CDS-C,Database Management,23,10,97,77,82,Pass
+STU080,Nikhil Sharma,Male,MSc-CDS-C,Machine Learning,28,5,78,76,77,Pass
+STU080,Nikhil Sharma,Male,MSc-CDS-C,Statistics,30,9,81,83,85,Pass
+STU081,Priya Patel,Female,MSc-CDS-C,Python Programming,20,5,99,61,67,Pass
+STU081,Priya Patel,Female,MSc-CDS-C,Data Science,26,7,76,49,66,Pass
+STU081,Priya Patel,Female,MSc-CDS-C,Database Management,15,6,86,63,59,Pass
+STU081,Priya Patel,Female,MSc-CDS-C,Machine Learning,18,8,67,63,59,Pass
+STU081,Priya Patel,Female,MSc-CDS-C,Statistics,14,4,77,72,54,Pass
+STU082,Priya Chowdary,Female,MSc-CDS-C,Python Programming,23,6,78,55,64,Pass
+STU082,Priya Chowdary,Female,MSc-CDS-C,Data Science,15,5,77,48,51,Pass
+STU082,Priya Chowdary,Female,MSc-CDS-C,Database Management,20,8,62,55,47,Pass
+STU082,Priya Chowdary,Female,MSc-CDS-C,Machine Learning,19,6,65,70,52,Pass
+STU082,Priya Chowdary,Female,MSc-CDS-C,Statistics,17,3,67,68,54,Pass
+STU083,Rahul Gupta,Male,MSc-CDS-C,Python Programming,23,6,77,54,71,Pass
+STU083,Rahul Gupta,Male,MSc-CDS-C,Data Science,20,10,75,44,66,Pass
+STU083,Rahul Gupta,Male,MSc-CDS-C,Database Management,23,7,85,63,53,Pass
+STU083,Rahul Gupta,Male,MSc-CDS-C,Machine Learning,17,7,79,64,78,Pass
+STU083,Rahul Gupta,Male,MSc-CDS-C,Statistics,19,5,75,62,65,Pass
+STU084,Kavya Das,Female,MSc-CDS-C,Python Programming,18,7,91,45,51,Pass
+STU084,Kavya Das,Female,MSc-CDS-C,Data Science,15,6,82,57,60,Pass
+STU084,Kavya Das,Female,MSc-CDS-C,Database Management,12,5,84,56,53,Pass
+STU084,Kavya Das,Female,MSc-CDS-C,Machine Learning,19,5,67,60,63,Pass
+STU084,Kavya Das,Female,MSc-CDS-C,Statistics,19,9,78,67,61,Pass
+STU085,Keerthi Naidu,Female,MSc-CDS-C,Python Programming,20,10,76,84,78,Pass
+STU085,Keerthi Naidu,Female,MSc-CDS-C,Data Science,24,8,97,77,84,Pass
+STU085,Keerthi Naidu,Female,MSc-CDS-C,Database Management,23,9,94,74,82,Pass
+STU085,Keerthi Naidu,Female,MSc-CDS-C,Machine Learning,30,8,54,73,83,Pass
+STU085,Keerthi Naidu,Female,MSc-CDS-C,Statistics,27,10,95,78,90,Pass
+STU086,Vikram Prasad,Male,MSc-CDS-C,Python Programming,23,8,77,69,66,Pass
+STU086,Vikram Prasad,Male,MSc-CDS-C,Data Science,26,5,100,73,93,Pass
+STU086,Vikram Prasad,Male,MSc-CDS-C,Database Management,26,10,80,78,70,Pass
+STU086,Vikram Prasad,Male,MSc-CDS-C,Machine Learning,26,8,90,78,75,Pass
+STU086,Vikram Prasad,Male,MSc-CDS-C,Statistics,27,6,65,53,70,Pass
+STU087,Tejaswini Naidu,Female,MSc-CDS-C,Python Programming,23,5,92,79,70,Pass
+STU087,Tejaswini Naidu,Female,MSc-CDS-C,Data Science,22,9,83,69,76,Pass
+STU087,Tejaswini Naidu,Female,MSc-CDS-C,Database Management,19,7,98,71,69,Pass
+STU087,Tejaswini Naidu,Female,MSc-CDS-C,Machine Learning,17,6,75,67,77,Pass
+STU087,Tejaswini Naidu,Female,MSc-CDS-C,Statistics,29,8,68,84,70,Pass
+STU088,Aditya Sharma,Male,MSc-CDS-C,Python Programming,26,9,81,73,87,Pass
+STU088,Aditya Sharma,Male,MSc-CDS-C,Data Science,30,10,87,79,94,Pass
+STU088,Aditya Sharma,Male,MSc-CDS-C,Database Management,26,8,88,76,83,Pass
+STU088,Aditya Sharma,Male,MSc-CDS-C,Machine Learning,30,10,82,92,89,Pass
+STU088,Aditya Sharma,Male,MSc-CDS-C,Statistics,30,7,78,84,76,Pass
+STU089,Lakshmi Murthy,Female,MSc-CDS-C,Python Programming,25,7,90,66,66,Pass
+STU089,Lakshmi Murthy,Female,MSc-CDS-C,Data Science,24,6,80,42,74,Pass
+STU089,Lakshmi Murthy,Female,MSc-CDS-C,Database Management,19,5,82,73,86,Pass
+STU089,Lakshmi Murthy,Female,MSc-CDS-C,Machine Learning,27,7,85,71,73,Pass
+STU089,Lakshmi Murthy,Female,MSc-CDS-C,Statistics,16,7,88,72,77,Pass
+STU090,Pooja Singh,Female,MSc-CDS-C,Python Programming,28,6,82,82,71,Pass
+STU090,Pooja Singh,Female,MSc-CDS-C,Data Science,23,8,85,81,79,Pass
+STU090,Pooja Singh,Female,MSc-CDS-C,Database Management,23,9,100,78,76,Pass
+STU090,Pooja Singh,Female,MSc-CDS-C,Machine Learning,23,8,77,73,80,Pass
+STU090,Pooja Singh,Female,MSc-CDS-C,Statistics,22,7,75,78,68,Pass
+STU091,Lakshmi Yadav,Female,MSc-CDS-C,Python Programming,26,10,92,88,86,Pass
+STU091,Lakshmi Yadav,Female,MSc-CDS-C,Data Science,30,10,82,93,87,Pass
+STU091,Lakshmi Yadav,Female,MSc-CDS-C,Database Management,25,10,76,82,87,Pass
+STU091,Lakshmi Yadav,Female,MSc-CDS-C,Machine Learning,23,10,100,100,100,Pass
+STU091,Lakshmi Yadav,Female,MSc-CDS-C,Statistics,24,10,75,93,100,Pass
+STU092,Harini Patel,Female,MSc-CDS-C,Python Programming,25,10,69,94,84,Pass
+STU092,Harini Patel,Female,MSc-CDS-C,Data Science,29,9,90,78,79,Pass
+STU092,Harini Patel,Female,MSc-CDS-C,Database Management,30,6,91,90,80,Pass
+STU092,Harini Patel,Female,MSc-CDS-C,Machine Learning,25,8,82,82,87,Pass
+STU092,Harini Patel,Female,MSc-CDS-C,Statistics,24,9,78,83,87,Pass
+STU093,Sravya Murthy,Female,MSc-CDS-C,Python Programming,13,6,54,58,44,Pass
+STU093,Sravya Murthy,Female,MSc-CDS-C,Data Science,13,7,62,71,61,Pass
+STU093,Sravya Murthy,Female,MSc-CDS-C,Database Management,14,6,69,61,59,Pass
+STU093,Sravya Murthy,Female,MSc-CDS-C,Machine Learning,19,6,72,75,64,Pass
+STU093,Sravya Murthy,Female,MSc-CDS-C,Statistics,18,5,44,55,62,Pass
+STU094,Tarun Verma,Male,MSc-CDS-C,Python Programming,28,10,77,96,100,Pass
+STU094,Tarun Verma,Male,MSc-CDS-C,Data Science,26,9,99,89,85,Pass
+STU094,Tarun Verma,Male,MSc-CDS-C,Database Management,30,10,78,77,92,Pass
+STU094,Tarun Verma,Male,MSc-CDS-C,Machine Learning,25,9,70,97,87,Pass
+STU094,Tarun Verma,Male,MSc-CDS-C,Statistics,30,10,82,81,97,Pass
+STU095,Anusha Prasad,Female,MSc-CDS-C,Python Programming,19,5,76,54,58,Pass
+STU095,Anusha Prasad,Female,MSc-CDS-C,Data Science,13,3,76,37,36,Fail
+STU095,Anusha Prasad,Female,MSc-CDS-C,Database Management,8,6,56,35,54,Pass
+STU095,Anusha Prasad,Female,MSc-CDS-C,Machine Learning,12,4,81,38,36,Fail
+STU095,Anusha Prasad,Female,MSc-CDS-C,Statistics,16,5,77,39,48,Pass
+STU096,Kavya Prasad,Female,MSc-CDS-C,Python Programming,15,4,78,50,68,Pass
+STU096,Kavya Prasad,Female,MSc-CDS-C,Data Science,23,5,76,53,59,Pass
+STU096,Kavya Prasad,Female,MSc-CDS-C,Database Management,19,8,99,69,63,Pass
+STU096,Kavya Prasad,Female,MSc-CDS-C,Machine Learning,21,7,60,49,75,Pass
+STU096,Kavya Prasad,Female,MSc-CDS-C,Statistics,18,8,57,56,39,Fail
+STU097,Sita Kumar,Female,MSc-CDS-C,Python Programming,17,6,76,71,67,Pass
+STU097,Sita Kumar,Female,MSc-CDS-C,Data Science,23,7,100,74,78,Pass
+STU097,Sita Kumar,Female,MSc-CDS-C,Database Management,25,6,83,78,78,Pass
+STU097,Sita Kumar,Female,MSc-CDS-C,Machine Learning,21,9,88,61,68,Pass
+STU097,Sita Kumar,Female,MSc-CDS-C,Statistics,16,10,81,68,69,Pass
+STU098,Rahul Murthy,Male,MSc-CDS-C,Python Programming,19,8,76,68,77,Pass
+STU098,Rahul Murthy,Male,MSc-CDS-C,Data Science,28,10,100,71,76,Pass
+STU098,Rahul Murthy,Male,MSc-CDS-C,Database Management,16,6,98,72,75,Pass
+STU098,Rahul Murthy,Male,MSc-CDS-C,Machine Learning,24,8,63,52,64,Pass
+STU098,Rahul Murthy,Male,MSc-CDS-C,Statistics,20,7,69,77,84,Pass
+STU099,Harish Gupta,Male,MSc-CDS-C,Python Programming,20,8,78,67,74,Pass
+STU099,Harish Gupta,Male,MSc-CDS-C,Data Science,15,8,78,62,78,Pass
+STU099,Harish Gupta,Male,MSc-CDS-C,Database Management,23,5,82,64,65,Pass
+STU099,Harish Gupta,Male,MSc-CDS-C,Machine Learning,18,6,76,75,73,Pass
+STU099,Harish Gupta,Male,MSc-CDS-C,Statistics,19,7,74,45,70,Pass
+STU100,Divya Sharma,Female,MSc-CDS-C,Python Programming,12,7,74,77,71,Pass
+STU100,Divya Sharma,Female,MSc-CDS-C,Data Science,20,4,82,66,53,Pass
+STU100,Divya Sharma,Female,MSc-CDS-C,Database Management,18,4,80,73,59,Pass
+STU100,Divya Sharma,Female,MSc-CDS-C,Machine Learning,21,4,69,51,54,Pass
+STU100,Divya Sharma,Female,MSc-CDS-C,Statistics,23,4,72,46,59,Pass

@@ -1,0 +1,182 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h2 class="mb-4">
+    Academic Performance Dashboard
+</h2>
+
+{% if not data_loaded %}
+
+<div class="alert alert-warning">
+
+    No dataset uploaded.
+
+    <a href="{{ url_for('upload') }}"
+       class="btn btn-primary btn-sm">
+
+        Upload Dataset
+
+    </a>
+
+</div>
+
+{% else %}
+
+<div class="row g-3">
+
+    <div class="col-md-3">
+
+        <div class="card dashboard-card">
+
+            <div class="card-body">
+
+                <h6>Total Students</h6>
+
+                <h2>
+                    {{ total_students }}
+                </h2>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <div class="col-md-3">
+
+        <div class="card dashboard-card">
+
+            <div class="card-body">
+
+                <h6>Average Score</h6>
+
+                <h2>
+                    {{ average_score }}
+                </h2>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <div class="col-md-3">
+
+        <div class="card dashboard-card">
+
+            <div class="card-body">
+
+                <h6>Pass Percentage</h6>
+
+                <h2>
+                    {{ pass_percentage }}%
+                </h2>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <div class="col-md-3">
+
+        <div class="card dashboard-card">
+
+            <div class="card-body">
+
+                <h6>Fail Percentage</h6>
+
+                <h2>
+                    {{ fail_percentage }}%
+                </h2>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+
+<div class="row mt-4">
+
+    <div class="col-md-6">
+
+        <div class="card">
+
+            <div class="card-body">
+
+                <h5>Machine Learning</h5>
+
+                <a href="{{ url_for('classification') }}"
+                   class="btn btn-primary">
+
+                    Classification
+
+                </a>
+
+                <a href="{{ url_for('regression') }}"
+                   class="btn btn-success">
+
+                    Regression
+
+                </a>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <div class="col-md-6">
+
+        <div class="card">
+
+            <div class="card-body">
+
+                <h5>Analysis</h5>
+
+                <a href="{{ url_for('analysis') }}"
+                   class="btn btn-info">
+
+                    General Analysis
+
+                </a>
+
+                <a href="{{ url_for('subjects') }}"
+                   class="btn btn-secondary">
+
+                    Subjects
+
+                </a>
+
+                <a href="{{ url_for('classes') }}"
+                   class="btn btn-dark">
+
+                    Classes
+
+                </a>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+{% endif %}
+
+
+
+{% endblock %}
+
+{% block visualizations %}
+{% if data_loaded and module_chart_data %}<div class="module-visuals mt-4 mb-5"><h3>Overall Dashboard Visual Analytics</h3><div class="row g-4"><div class="col-lg-6"><div class="card"><div class="card-body"><div id="dashResultChart" class="module-chart"></div></div></div></div><div class="col-lg-6"><div class="card"><div class="card-body"><div id="dashSubjectChart" class="module-chart"></div></div></div></div><div class="col-lg-6"><div class="card"><div class="card-body"><div id="dashClassChart" class="module-chart"></div></div></div></div><div class="col-lg-6"><div class="card"><div class="card-body"><div id="dashGenderChart" class="module-chart"></div></div></div></div></div><script type="application/json" id="pageChartData">{{ module_chart_data | tojson }}</script></div>{% endif %}
+{% endblock %}

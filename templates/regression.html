@@ -1,0 +1,85 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h2>Regression Models</h2>
+
+<form method="POST">
+
+    <button
+        class="btn btn-success">
+
+        Train Regression Models
+
+    </button>
+
+</form>
+
+
+{% if results %}
+
+<div class="card mt-4">
+
+    <div class="card-body">
+
+        <table class="table table-bordered model-results-table regression-results-table">
+
+            <thead>
+
+                <tr>
+                    <th>Model</th>
+                    <th>MAE</th>
+                    <th>RMSE</th>
+                    <th>R²</th>
+                </tr>
+
+            </thead>
+
+            <tbody>
+
+            {% for model, result in results.items() %}
+
+                <tr>
+
+                    <td>
+                        {{ model }}
+                    </td>
+
+                    <td>
+                        {{ result.mae }}
+                    </td>
+
+                    <td>
+                        {{ result.rmse }}
+                    </td>
+
+                    <td>
+                        {{ result.r2 }}
+                    </td>
+
+                </tr>
+
+            {% endfor %}
+
+            </tbody>
+
+        </table>
+
+    </div>
+
+</div>
+
+<div class="row g-4 mt-1">
+    <div class="col-12"><div class="card"><div class="card-body"><div id="regressionErrorChart" class="module-chart" role="img" aria-label="Bar chart comparing regression MAE and RMSE errors"></div></div></div></div>
+    <div class="col-12"><div class="card"><div class="card-body"><div id="regressionR2Chart" class="module-chart" role="img" aria-label="Bar chart comparing regression R squared scores"></div></div></div></div>
+</div>
+<script id="regressionMetricsData" type="application/json">{{ results | tojson }}</script>
+{% endif %}
+
+
+
+{% endblock %}
+
+{% block visualizations %}
+{% if results %}<div class="module-visuals mt-4"><h3>Regression Model Visual Analytics</h3><div class="card"><div class="card-body"><div id="regressionMetricsChart" class="module-chart"></div></div></div><script type="application/json" id="pageChartData">{{ results | tojson }}</script></div>{% endif %}
+{% endblock %}

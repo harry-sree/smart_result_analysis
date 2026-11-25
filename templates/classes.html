@@ -1,0 +1,64 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h2>Class Analysis</h2>
+
+<div class="table-responsive class-analysis-responsive mt-4">
+    <table class="table table-bordered class-analysis-table">
+        <colgroup>
+            <col style="width: 11%">
+            <col style="width: 8%">
+            <col style="width: 10%">
+            <col style="width: 7%">
+            <col style="width: 7%">
+            <col style="width: 10%">
+            <col style="width: 10%">
+            <col style="width: 10%">
+            <col style="width: 10%">
+        </colgroup>
+        <thead>
+            <tr>
+                <th scope="col">Class</th>
+                <th scope="col">Students</th>
+                <th scope="col">Average<br>Score</th>
+                <th scope="col">Pass</th>
+                <th scope="col">Fail</th>
+                <th scope="col">Pass<br>Percentage</th>
+                <th scope="col">Fail<br>Percentage</th>
+                <th scope="col">Male %</th>
+                <th scope="col">Female %</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for item in classes %}
+            <tr>
+                <td>{{ item["class"] }}</td>
+                <td>{{ item.students }}</td>
+                <td>{{ item.average_score }}</td>
+                <td>{{ item.pass_count }}</td>
+                <td>{{ item.fail_count }}</td>
+                <td>{{ item.pass_percentage }}%</td>
+                <td>{{ item.fail_percentage }}%</td>
+                <td>{{ item.male_percentage }}%</td>
+                <td>{{ item.female_percentage }}%</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+{% endblock %}
+
+{% block visualizations %}
+<div class="module-visuals mt-4">
+  <h3>Class-wise Visual Analytics</h3>
+  <div class="row g-4">
+    <div class="col-lg-6"><div class="card h-100"><div class="card-body"><div id="classAverageChart" class="module-chart"></div></div></div></div>
+    <div class="col-lg-6"><div class="card h-100"><div class="card-body"><div id="classPassFailChart" class="module-chart"></div></div></div></div>
+    <div class="col-lg-6"><div class="card h-100"><div class="card-body"><div id="classPassFailPercentageChart" class="module-chart"></div></div></div></div>
+    <div class="col-lg-6"><div class="card h-100"><div class="card-body"><div id="classGenderPercentageChart" class="module-chart"></div></div></div></div>
+  </div>
+  <script type="application/json" id="pageChartData">{{ classes | tojson }}</script>
+</div>
+{% endblock %}

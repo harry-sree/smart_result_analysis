@@ -1,0 +1,94 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h2 class="text-danger">
+    At-Risk Students
+</h2>
+
+<p>
+    Students with predicted failure probability
+    greater than 65% are displayed here.
+</p>
+
+{% if students %}
+
+<table class="table table-bordered table-hover">
+
+<thead>
+
+<tr>
+
+    <th>Student</th>
+    <th>Class</th>
+    <th>Subject</th>
+    <th>Failure Probability</th>
+    <th>Prediction</th>
+    <th>Risk</th>
+    <th>Suggested Action</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+{% for student in students %}
+
+<tr>
+
+    <td>
+        {{ student.student_name }}
+    </td>
+
+    <td>
+        {{ student["class"] }}
+    </td>
+
+    <td>
+        {{ student.subject }}
+    </td>
+
+    <td>
+        {{ student.failure_probability }}%
+    </td>
+
+    <td>
+        {{ student.predicted_result }}
+    </td>
+
+    <td>
+        <span class="badge bg-danger">
+            {{ student.risk_level }}
+        </span>
+    </td>
+
+    <td>
+        {{ student.suggested_action }}
+    </td>
+
+</tr>
+
+{% endfor %}
+
+</tbody>
+
+</table>
+
+{% else %}
+
+<div class="alert alert-success">
+
+    No high-risk students detected.
+
+</div>
+
+{% endif %}
+
+
+
+{% endblock %}
+
+{% block visualizations %}
+{% if students %}<div class="module-visuals mt-4"><h3>At-Risk Student Visual Analytics</h3><div class="card"><div class="card-body"><div id="riskProbabilityChart" class="module-chart"></div></div></div><script type="application/json" id="pageChartData">{{ students | tojson }}</script></div>{% endif %}
+{% endblock %}
