@@ -1,0 +1,10 @@
+/* Page-specific visual analytics; original style.css is left unchanged. */
+.module-visuals { clear: both; }
+.module-visuals .module-chart { width: 100%; min-height: 340px; }
+.module-visuals .card { height: 100%; border-radius: 12px; }
+@media (max-width: 768px) { .module-visuals .module-chart { min-height: 280px; } }
+
+/* Student search and individual overview additions; original style.css is unchanged. */
+.student-search-panel { padding: 1rem; border: 1px solid #e3e8ef; border-radius: 12px; background: rgba(248, 250, 252, 0.8); }
+.student-search-panel .form-control { min-height: 44px; }
+.student-detail-summary { padding: 1rem 1.25rem; border-left: 4px solid #0d6efd; border-radius: 8px; background: rgba(13, 110, 253, 0.05); }
